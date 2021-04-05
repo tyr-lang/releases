@@ -18,6 +18,25 @@ Furthermore, you need
  - java 11
  - llvm 10 (opt+lli)
 
+### Installation on Windows
+
+Open "Microsoft Store" -> Search "Ubuntu 20.04 LTS" -> Install
+Open "Ubuntu 20.04 LTS"
+Continue with Installation on Ubuntu
+
+### Installation on Ubuntu
+
+Install Packages
+'''
+sudo apt-get install llvm openjdk-11-jre
+'''
+
+Unpack release zip and run
+'''
+chmod +x install.sh
+./install.sh
+'''
+
 ## On Licensing
 
 Tyr has a very cool feature that allows you to use templates from other libraries without knowing the other library's source code.
