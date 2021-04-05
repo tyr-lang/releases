@@ -18,10 +18,15 @@ Furthermore, you need
  - java 11
  - llvm 10 (opt+lli)
 
-### Installation on Windows
+### Installation on Windows (via WSL)
 
  - Open "Microsoft Store" -> Search "Ubuntu 20.04 LTS" -> Install
  - Open "Ubuntu 20.04 LTS"
+ - Load package list
+```
+sudo apt-get update
+```
+> Note: you can access your C:\ drive from WSL with cd /mnt/c/
  - Continue with Installation on Ubuntu
 
 ### Installation on Ubuntu
