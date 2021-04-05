@@ -29,7 +29,7 @@ Both categories allow you to use the resulting executables without any non-obvio
 
 In order to be considered public free you have to
  - publish your sources under a permissive license that allows derivatives and commercial uses (e.g. Apache v2, MIT, BSD)
- - publish all sources and configuration required to build your library in a *public* repository
+ - publish all sources and configuration required to build your library in a *public* repository (e.g. public github project)
 
 The latest version of the compiler published in this repository may be used to compile public free Tyr projects, i.e. to use the functionality it offers via its CLI.
 
