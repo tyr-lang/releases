@@ -27,15 +27,15 @@ Continue with Installation on Ubuntu
 ### Installation on Ubuntu
 
 Install Packages
-'''
+```
 sudo apt-get install llvm openjdk-11-jre
-'''
+```
 
 Unpack release zip and run
-'''
+```
 chmod +x install.sh
 ./install.sh
-'''
+```
 
 ## On Licensing
 
