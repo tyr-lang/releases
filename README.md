@@ -34,7 +34,7 @@ sudo apt-get update
 
  - Install Packages
 ```
-sudo apt-get install llvm openjdk-11-jre
+sudo apt-get install clang llvm openjdk-11-jre
 ```
 
  - Unpack release zip and run
