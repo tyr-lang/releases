@@ -17,6 +17,31 @@ Currently, I do only compile to Ubuntu 20.04.
 Furthermore, you need
  - java 11
  - llvm 10 (opt+lli)
+ - clang 10
+
+### Installation on Windows (via WSL)
+
+ - Open "Microsoft Store" -> Search "Ubuntu 20.04 LTS" -> Install
+ - Open "Ubuntu 20.04 LTS"
+ - Load package list
+```
+sudo apt-get update
+```
+> Note: you can access your C:\ drive from WSL with cd /mnt/c/
+ - Continue with Installation on Ubuntu
+
+### Installation on Ubuntu
+
+ - Install Packages
+```
+sudo apt-get install clang llvm openjdk-11-jre
+```
+
+ - Unpack release zip and run
+```
+chmod +x install.sh
+./install.sh
+```
 
 ## On Licensing
 
