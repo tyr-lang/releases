@@ -16,7 +16,7 @@ The release notes will mention the supported language level and the overall tyr.
 Currently, I do only compile to Ubuntu 20.04.
 Furthermore, you need
  - java 11
- - llvm 10 (opt+lli)
+ - llvm 10 (opt tool)
  - clang 10
 
 ### Installation on Windows (via WSL)
