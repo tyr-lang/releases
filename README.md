@@ -9,7 +9,7 @@ Expect bugs!
 **NO WARANTY OR LIABILITY OF ANY KIND!**
 
 However, a lot of very cool features work very well.
-The release notes will mention the supported language level and the overall tyr.lang + conformance.test test status.
+The release notes will mention the supported language level and the overall stdlib + conformance.test test status.
 
 ## Requirements
 
