@@ -3,7 +3,7 @@ Latest releases of Timm Felden's Tyr compiler.
 
 ## Status
 
-The release notes will mention the supported language level and the overall tyr.lang + conformance.test test status.
+The release notes will mention the supported language level and the overall stdlib + conformance.test test status.
 
 **NO WARANTY OR LIABILITY OF ANY KIND!**
 
